@@ -1,0 +1,1 @@
+armazenamento das imagens utilizadas
